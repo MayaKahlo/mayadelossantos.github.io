@@ -2,18 +2,16 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Maya De Los Santos
     - name: Languages
-      value: English, German
+      value: English, Spanish
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.S. in Electrical & Computer Engineering
+      institution: Northeastern Univeristy, Boston, Massachusettes
+      year: 2025
       description:
         - Description 1.
         - Description 2.
@@ -31,9 +29,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: AJC Merit Scholar Researcher
+      institution: Civic A.I. Lab, Northeastern University
+      year: Jan. 2023 - Present
       description:
         - Description 1.
         - Description 2.
@@ -41,9 +39,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: President, Society of Hispanic Professional Engineers
+      institution: Northeastern University
+      year: Apr. 2022 - Apr. 2023
       description:
         - Description 1.
         - Description 2.
@@ -71,22 +69,25 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Entegris Foundation Engineering Scholarship
+        - AJC Merit Researcher Scholarship
+    - year: 2022
+      items:
+        - Grace Hopper Celebration Scholar
+    - year: 2021
       items: 
-        - Max Planck Medal
+        - Generation Google Scholar
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: A.I. Fairness
       items: 
-        - Description 1.
+        - Creating tools for marginalized communities
         - Description 2.
-    - title: Topic 2.
+    - title: Data Privacy
       items:
         - Description 1.
         - Description 2.
@@ -94,4 +95,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Reading, Traveling, etc.
