@@ -5,26 +5,35 @@
       value: Maya De Los Santos
     - name: Languages
       value: English, Spanish
+    - name: Interests
+      value: A.I. Fairness, Data Privacy
 
 - title: Education
   type: time_table
   contents:
     - title: B.S. in Electrical & Computer Engineering
-      institution: Northeastern Univeristy, Boston, Massachusettes
-      year: 2025
+      institution: Northeastern Univeristy, Boston, MA
+      year: Expected 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - 3.8 GPA | Honors Program
+        - title: Relevant Coursework
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Discrete Structures, Circuits & Signals (Biomedical Applications), Embedded Design (Enabling Robotics),
+              Algorithms that Affect Lives, Fundamentals of Networks, Calculus III, Differential Equations & Linear Algebra
+
+    - title: Global A.I. - Human-Centered Computation (Ph.D. Level Course)
+      institution: Northeastern Univeristy, Boston, MA
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Learn how culture and culture models can influence the design of intelligent interfaces in class taught by Dr. Saiph Savage
+        - Identifying how certain intelligent interfaces can promote racism, ableism, sexism, & be problematic for certain cultures
+
+    - title: How Humans Judge Machines (Ph.D. Level Course)
+      institution: Université de Toulouse, Toulouse, France
+      year: 2021
+      description:
+        - Learned about human perception of machines through research review & in-class activities taught by Dr. Cesar Hidalgo
+        - Created and presented video project discussing the ethical and moral implications of Neuralink
 
 - title: Experience
   type: time_table
