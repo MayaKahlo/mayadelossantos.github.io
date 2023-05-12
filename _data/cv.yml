@@ -6,7 +6,7 @@
     - name: Languages
       value: English, Spanish
     - name: Interests
-      value: A.I. Fairness, Data Privacy
+      value: A.I. Fairness | Data Privacy | Design Justice Theory
 
 - title: Education
   type: time_table
@@ -22,14 +22,14 @@
             - Discrete Structures, Circuits & Signals (Biomedical Applications), Embedded Design (Enabling Robotics),
               Algorithms that Affect Lives, Fundamentals of Networks, Calculus III, Differential Equations & Linear Algebra
 
-    - title: Global A.I. - Human-Centered Computation (Ph.D. Level Course)
+    - title: Global A.I. - Human-Centered Computation (Ph.D. Course)
       institution: Northeastern Univeristy, Boston, MA
       year: 2023
       description:
         - Learn how culture and culture models can influence the design of intelligent interfaces in class taught by Dr. Saiph Savage
         - Identifying how certain intelligent interfaces can promote racism, ableism, sexism, & be problematic for certain cultures
 
-    - title: How Humans Judge Machines (Ph.D. Level Course)
+    - title: How Humans Judge Machines (Ph.D. Course)
       institution: Université de Toulouse, Toulouse, France
       year: 2021
       description:
@@ -43,12 +43,14 @@
       institution: Jan. 2023 - Present
       year: Co-op 2
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Co-authored & created A.I. tool designs for report with PIT Policy Lab accessing gender perspectives in LATAM crowdwork
+        - Analyzing 50 surveys with gig-working women in LATAM using affinity mapping method to find themes in their challenges
+        # - Developing interview guide investigating gig workers’ comfortability with surveilling employers for sousveillance tool
+
+        - title: Organizations / Affliations
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Attending workshops & networking with the DAIR Institute, <A+> Alliance for Algorithmic Justice, Feminist A.I. Network, 
+              Universidad Nacional Autónoma de México, Datos Contra el Feminicidio, & Global Partnership in A.I.
 
     - title: Philips | HealthTech Software Engineering Co-op
       institution: Jan. 2022 - Aug. 2023
@@ -62,8 +64,18 @@
       institution: Northeastern University
       year: Apr. 2022 - Apr. 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Redefining position outlines and managing transition meetings between 11 board members and their successors
+        - Planning semester meetings and National Convention for the Fall, and delegating responsibilities to each board member
+        - Organized 3-day Dia de los Muertos event in collaboration with organizations in the Northeastern Latinx Coalition
+        - Organized ‘Carnaval Celebration’ in collaboration with the Latin American Student Organization & NEU Global Service office
+
+    - title: Recon Industrial Controls Corporation | Electrical Engineering Intern
+      institution: Sept. 2019 - Jun. 2020
+      year: Internship
+      description:
+        - Programmed LCD display in conjunction with Raspberry Pi and Arduino to showcase recorded temperature                               data from I2C sensor for entrepreneurial client
+        - Programmed joystick & stepper motor system to move laser pointer in 180° range for robot “missile guidance” simulator
+        - Simulated capacitor charging and variable current capacitor discharging utilizing PyCharm and MATLAB
 
 - title: Open Source Projects
   type: time_table
