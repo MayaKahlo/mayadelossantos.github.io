@@ -2,17 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Contact.
+subtitle: <a href='#'>Northeastern University</a>. Contact.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: mayadelossantos.io/assets/img/prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Northeastern University</p>
+    <p>Northeastern University, Boston, MA</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -20,7 +20,7 @@ Maya De Los Santos is a first-generation Afro-Latina pursuing an Electrical and 
 and is a research assistant in the Civic AI lab led by [Dr. Saiph Savage](http://www.saiph.org/). In her current work, Maya is dedicated to designing and researching human-centered
 AI systems that ensure fair work opportunities for Latina gig workers.
 
-Maya is also a Google Generation Scholarship Recipient, a Grace Hopper Celebration Scholar, and was selected for an NSF grant to participate in Carnegie Mellon University's REUSE research program. Here, she published a first-author paper on TikTok users' 
+Maya is also a Google Generation Scholarship Recipient, a Grace Hopper Celebration Scholar, and was selected for an NSF grant to participate in Carnegie Mellon University's REUSE research program. Here, she published a first-author paper on TikTok users'
 awareness of the platform's privacy policy, which was presented at the 20th International Conference on Mobile and Ubiquitous Multimedia. Maya also holds several
 leadership positions: she was the President of the Northeastern Chapter of the Society of Hispanic Professional Engineers and is an active member of the Black Engineering
 Student Society. In addition to her research in academia, Maya has also worked as a Software Engineer in Philips' healthcare department, where she utilized GitHub workflows,
