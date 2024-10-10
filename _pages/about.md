@@ -6,8 +6,8 @@ subtitle: <a href='#'>Northeastern University</a>. Contact.
 
 profile:
   align: right
-  image: mayadelossantos.io/assets/img/prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: /Documents/GitHub/mayadelossantos.github.io/assets/img/prof_pic.jpg
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Northeastern University, Boston, MA</p>
 
